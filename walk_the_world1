@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Walk the World</title>
+	</head>
+	<body>
+		<h1>Walk the World</h1>
+		<ul>
+  <li><a href="#">About Us</a></li>
+  <li><a href="#">Walks</a></li>
+  <li><a href="#">Camping</a></li>
+  <li><a href="#">Food</a></li>
+  <li><a href="#">Weather</a></li>
+</ul>
+	</body>
+</html>
