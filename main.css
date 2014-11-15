@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+<link href="/normalize.css" rel="stylesheet">
+<style>
+	h1 {
+		text-align: center;
+		color: white;
+		font-size: 70px;
+		background: url("http://upload.wikimedia.org/wikipedia/commons/4/49/Zdiar1.jpg");
+		background-size: cover;
+	}
+</style>
+</head>
