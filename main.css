@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-		<style>
 	header{
 		color: white
 	}
@@ -77,6 +73,14 @@
 	#last_paragraph {
 		padding: 10px 0px 0px 0px;
 	}
-</style>
-</head>
-</html>
+	img {
+		position: absolute;
+		top: 5px;
+		left: 5px;
+		border: 1px solid black;
+		max-height: 300px;
+		max-width: 300px;
+	}
+	.logo {
+		position: relative;
+	}
